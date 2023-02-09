@@ -35,10 +35,3 @@ in order to install inquirer, please use npm i inquirer@8.2.4.
 
 
 # Usage
-Start-Page:
-C:\Users\bicto\Documents\bootcamp\Note-Taker-\Screenshot_20230208_051809.png
-
-Note Page:
-Page:C:\Users\bicto\Documents\bootcamp\Note-Taker-\Screenshot_20230208_051924.png
-
-
